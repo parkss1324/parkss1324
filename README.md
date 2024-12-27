@@ -5,7 +5,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 자기소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-    안녕하세요! 제 이름은 박성수 다양한 기술들을 배우고 활용하는 것을 즐기는 개발자입니다.<br>
+    안녕하세요! 제 이름은 박성수, 다양한 기술들을 배우고 활용하는 것을 즐기는 개발자입니다.<br>
     어느 한 분야가 아닌 다양한 분야에서 업무가 가능한 풀스택(Full Stack) 개발자가 되기 위해 노력 중이고,<br>
     경영학과를 졸업하여 개발자의 길로 전향하였지만, 스스로의 힘으로 다양한 분야의 작품을 만들어보면서 개발 지식과 역량을 길렀습니다.</li> 
     </div> 
