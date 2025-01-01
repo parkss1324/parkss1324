@@ -19,6 +19,9 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     </div>
+    <br>
+    이 프로그래밍 언어를 바탕으로 임베디드, 프론트엔드, 백엔드, 머신비전 포트폴리오를 제작하며 개발 역량을 키우고 있고,<br>
+    블로그 활동을 성실하게 하며 배운 정보를 기록해 나가고 있습니다.
 </div>
 
 <div style="text-align: left;">
