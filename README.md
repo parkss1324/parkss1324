@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     </div>
     <br>
-    이 프로그래밍 언어를 바탕으로 임베디드, 프론트엔드, 백엔드, 머신비전 포트폴리오를 제작하며 개발 역량을 키우고 있고,<br>
+    이 프로그래밍 언어를 바탕으로 임베디드, 프론트엔드, 백엔드, 머신비전 포트폴리오를 제작하며 개발 역량을 키우고 있고,
     블로그 활동을 성실하게 하며 배운 정보를 기록해 나가고 있습니다.
 </div>
 
@@ -30,7 +30,8 @@
     <a href=https://blog.naver.com/PostList.naver?blogId=parkss1324&parentCategoryNo=1> 
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=parkss1324&parentCategoryNo=1"> 
     </a>
-    </div><br> 
-    <div align= "center">  </div> 
+    </div>
+    <br> 
+    <div align= "center"></div> 
 </div>
     
